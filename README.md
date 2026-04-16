@@ -1,6 +1,6 @@
 # HeroXQuest
 <div align="center">
-  <img width="550" height="309" alt="HeroXQuestIcon" src="assets/icon/HeroXQuest_Icon.png" />
+  <img width="150" alt="HeroXQuestIcon" src="assets/icon/HeroXQuest_Icon.png" />
 </div>
 
 # Introduction
