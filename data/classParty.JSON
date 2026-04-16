@@ -1,0 +1,38 @@
+{
+    "HERO" : [
+        {
+            "name" : "HERO",
+            "char_class" : "Warrior",
+            "level" : 99,
+            "max_hp" : 6500,
+            "hp": 6500,
+            "atk" : 770,
+            "df" : 440,
+            "skill" : "Legendary Slash"
+        }
+        ],
+    "WIZARD" : [
+        {
+            "name" : "WIZARD",
+            "char_class" : "Mage",
+            "level" : 80,
+            "max_hp" : 3200,
+            "hp" : 3200,
+            "atk" : 600,
+            "df" : 270,
+            "skill" : "FireShadow Blast"
+        }
+        ],
+    "MONSTER" : [
+         {
+            "name" : "MONSTER",
+            "char_class" : "Monster",
+            "level" : 70,
+            "max_hp" : 4600,
+            "hp" : 4600,
+            "atk" : 700,
+            "df" : 340,
+            "skill" : "Dark Slash"
+        }
+    ]    
+}

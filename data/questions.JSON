@@ -1,0 +1,305 @@
+{
+    "questions" : 
+    [
+        {
+            "prompt": "この漢字の読み方は「月」？",
+            "choices" : ["A) つき", "B) がつ", "C) げつ"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「生徒（せいと）」？",
+            "choices" : ["A) 学校", "B) 先生", "C) 学生"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「雨」？",
+            "choices" : ["A) ああめ", "B) あめ", "C) う"],
+            "answer": "B",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「練習（れんしゅ）」？",
+            "choices" : ["A) トレーニング", "B) 買い物", "C) 寝る"],
+            "answer": "A",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「森」？",
+            "choices" : ["A) も", "B) まり", "C) もり"],
+            "answer": "C",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「親（おや）」？",
+            "choices" : ["A) 友達", "B) 家族", "C) 妻"],
+            "answer": "B",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「馬」？",
+            "choices" : ["A) ば", "B) うま", "C) うみ"],
+            "answer": "B",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「飲酒（いんしゅ）」？",
+            "choices" : ["A) お酒", "B) 飲まない", "C) お酒を飲むこと"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「糸」？",
+            "choices" : ["A) いと", "B) つ", "C) ひと"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「恐ろしい（おそろしい）」？",
+            "choices" : ["A) 良いこと", "B) 可愛い", "C) 悪いこと"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「異」？",
+            "choices" : ["A) き", "B) い", "C) じ"],
+            "answer": "B",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「支払い（しはらい）」？",
+            "choices" : ["A) お金をもらう", "B) お金をあげる", "C) お金を払う"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「曇」？",
+            "choices" : ["A) くも", "B) くもり", "C) ゆき"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「延期（えんき）」？",
+            "choices" : ["A) 予定を早める", "B) 予定を遅らせる", "C) 約束を破る"],
+            "answer": "B",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「案」？",
+            "choices" : ["A) はん", "B) えん", "C) あん"],
+            "answer": "C",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「強調（きょうちょう）」？",
+            "choices" : ["A) 弱くする", "B) 目立たせる", "C) 減らす"],
+            "answer": "B",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「齢」？",
+            "choices" : ["A) れい", "B) さい", "C) とし"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「提供（ていきょう）」？",
+            "choices" : ["A) あげる・与える", "B) 借りる", "C) 集める"],
+            "answer": "A",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「編」？",
+            "choices" : ["A) あん", "B) へん", "C) えん"],
+            "answer": "B",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「表情（ひょうじょう）」？",
+            "choices" : ["A) 顔の様子", "B) 話し方", "C) 態度"],
+            "answer": "A",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「努」？",
+            "choices" : ["A) こわす", "B) がんばる", "C) わらう"],
+            "answer": "B",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「距離（きょり）」？",
+            "choices" : ["A) 時間の長さ", "B) 物の重さ", "C) 道の長さ"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「認」？",
+            "choices" : ["A) しん", "B) にん", "C) じん"],
+            "answer": "B",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「支度（したく）」？",
+            "choices" : ["A) 準備すること", "B) 掃除すること", "C) 食べること"],
+            "answer": "A",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「確」？",
+            "choices" : ["A) かく", "B) けつ", "C) こう"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「誤解（ごかい）」？",
+            "choices" : ["A) 正しく理解すること", "B) 間違って理解すること", "C) 全く理解しないこと"],
+            "answer": "B",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「従」？",
+            "choices" : ["A) しょう", "B) すう", "C) じゅう"],
+            "answer": "C",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「追加（ついか）」？",
+            "choices" : ["A) 新しく加えること", "B) 減らすこと", "C) 忘れること"],
+            "answer": "A",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「述」？",
+            "choices" : ["A) じゅん", "B) じゅつ", "C) しゅう"],
+            "answer": "B",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「詳細（しょうさい）」？",
+            "choices" : ["A) 関係ない話", "B) 大まかな説明", "C) くわしい内容"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「批」？",
+            "choices" : ["A) ひ", "B) へい", "C) は"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「主張（しゅちょう）」？",
+            "choices" : ["A) 話をやめること", "B) 自分の意見を強く言うこと", "C) 他人の意見を聞くこと"],
+            "answer": "B",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「償」？",
+            "choices" : ["A) へい", "B) しょう", "C) じょう"],
+            "answer": "B",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「価値（かち）」？",
+            "choices" : ["A) 値段が安いこと", "B) お金の量", "C) 物や人の大切さ"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「我」？",
+            "choices" : ["A) が", "B) おれ", "C) わ"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「感想（かんそう）」？",
+            "choices" : ["A) 他人の考え", "B) 天気の説明", "C) 自分が感じたことや意見"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「片」？",
+            "choices" : ["A) かた", "B) へん", "C) がた"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「原因（げんいん）」？",
+            "choices" : ["A) 感情のこと", "B) 物事の理由", "C) 結果のこと"],
+            "answer": "B",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「札」？",
+            "choices" : ["A) ふだ", "B) ぶ", "C) だ"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「判断（はんだん）」？",
+            "choices" : ["A) 誰かに聞くこと", "B) よく考えて決めること", "C) 適当に選ぶこと"],
+            "answer": "B",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「湖」？",
+            "choices" : ["A) みずうみ", "B) がわ", "C) うみ"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「影（かげ）」？",
+            "choices" : ["A) 鳥の羽", "B) 空の雲", "C) 光が当たらない部分"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「窓」？",
+            "choices" : ["A) あまど", "B) あい", "C) まど"],
+            "answer": "C",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「尊敬（そんけい）」？",
+            "choices" : ["A) 人を笑うこと", "B) 人を高く思うこと", "C) 人を下に見ること"],
+            "answer": "B",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「膝」？",
+            "choices" : ["A) ひざ", "B) びーざ", "C) ほぞ"],
+            "answer": "A",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「挑戦（ちょうせん）」？",
+            "choices" : ["A) あきらめること", "B) 新しいことをやってみること", "C) 誰かを助けること"],
+            "answer": "B",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「派」？",
+            "choices" : ["A) ほ", "B) は", "C) つね"],
+            "answer": "B",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「貢献（こうけん）」？",
+            "choices" : ["A) お金を無駄に使うこと", "B) 力を抜くこと", "C) 誰かのために役立つこと"],
+            "answer": "C",
+            "type": "vocab"
+        },
+        {
+            "prompt": "この漢字の読み方は「鼻」？",
+            "choices" : ["A) はなひ", "B) び", "C) はな"],
+            "answer": "C",
+            "type": "kanji"
+        },
+        {
+            "prompt": "この言葉の意味は「状況（じょうきょう）」？",
+            "choices" : ["A) 人の感情", "B) 物事の様子や今の状態", "C) 会社の名前"],
+            "answer": "B",
+            "type": "vocab"
+        }
+    ]
+}

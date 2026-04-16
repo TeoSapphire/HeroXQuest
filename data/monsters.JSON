@@ -1,0 +1,82 @@
+{
+    "stages" : [
+        {
+            "stage" : "FOREST",
+            "monsters" : [
+                {
+                    "name" : "Poison Bug1",
+                    "level" : 50,
+                    "max_hp" : 800,
+                    "hp" : 800,
+                    "atk" : 350,
+                    "df" : 100,
+                    "skill" : "Poison Sting"
+                },
+                {
+                    "name" : "Poison Bug2",
+                    "level" : 50,
+                    "max_hp" : 800,
+                    "hp" : 800,
+                    "atk" : 350,
+                    "df" : 100,
+                    "skill" : "Poison Sting" 
+                },
+                {
+                    "name" : "Poison Bug3",
+                    "level" : 50,
+                    "max_hp" : 800,
+                    "hp" : 800,
+                    "atk" : 350,
+                    "df" : 100,
+                    "skill" : "Poison Sting"
+                }
+            ]
+        },
+        {
+            "stage" : "CAVE",
+            "monsters" : [
+                {
+                    "name" : "Ice Golem1",
+                    "level" : 65,
+                    "max_hp" : 1500,
+                    "hp" : 1500,
+                    "atk" : 500,
+                    "df" : 300,
+                    "skill" : "Ice Smash"
+                },
+                {
+                    "name" : "Ice Dragon",
+                    "level" : 70,
+                    "max_hp" : 3000,
+                    "hp" : 3000,
+                    "atk" : 600,
+                    "df" : 220,
+                    "skill" : "Frost Breath"
+                },
+                {
+                    "name" : "Ice Golem2",
+                    "level" : 65,
+                    "max_hp" : 2500,
+                    "hp" : 2500,
+                    "atk" : 500,
+                    "df" : 300,
+                    "skill" : "Ice Smash"
+                }
+            ]
+        },
+        {
+            "stage" : "CASTLE",
+            "monsters" : [
+                {
+                    "name" : "King Demon",
+                    "level" : 99,
+                    "max_hp" : 5000,
+                    "hp" : 5000,
+                    "atk" : 750,
+                    "df" : 350,
+                    "skill" : "Infinite Darkness"
+                }
+            ]
+        }
+    ]
+}
